@@ -13,8 +13,6 @@ import {
 } from "flowbite-react";
 import { useEffect } from 'react'; // Đừng quên thêm vào đầu file
 import Swal from 'sweetalert2'; // Thêm dòng này vào đầu file Enquiry.jsx
-// import 'sweetalert2/src/sweetalert2.scss'
-
 
 
 import axios from 'axios';
